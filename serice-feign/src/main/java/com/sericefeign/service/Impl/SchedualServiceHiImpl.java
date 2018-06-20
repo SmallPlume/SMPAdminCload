@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
  * @date 2018/6/19 13:20
  */
 @Component
-public class HystrixClientFallback implements SchedualServiceHi {
+public class SchedualServiceHiImpl implements SchedualServiceHi {
 
     @Override
     public String sayHiFromClientOne(String name) {

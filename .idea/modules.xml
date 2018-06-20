@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/eurekaservice/eurekaservice.iml" filepath="$PROJECT_DIR$/eurekaservice/eurekaservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/serice-feign/serice-feign.iml" filepath="$PROJECT_DIR$/serice-feign/serice-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
     </modules>
   </component>
 </project>
